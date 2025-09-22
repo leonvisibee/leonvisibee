@@ -1,27 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 80 80" stroke-width="4">
   <g transform="rotate(90)">
-    <circle r="31" stroke-dasharray="0 97.825 0" cx="" stroke="#262931" fill="none" />
-    <circle r="31" stroke-dasharray="97.825" cx="" stroke="#fff" fill="none" />
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite" />
 
-    <circle r="27" stroke-dasharray="85.25" cx="" stroke="#262931" fill="none" />
-    <circle r="27" stroke-dasharray="0 85.25 0" cx="" stroke="#fff" fill="none" />
+    <circle r="31" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="0 97.825 0" />
+    <circle r="31" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="97.825" />
 
-    <circle r="23" stroke-dasharray="0 72.65 0" cx="" stroke="#262931" fill="none" />
-    <circle r="23" stroke-dasharray="72.65" cx="" stroke="#fff" fill="none" />
+    <circle r="27" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="85.25" />
+    <circle r="27" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="0 85.25 0" />
 
-    <circle r="19" stroke-dasharray="60" cx="" stroke="#262931" fill="none" />
-    <circle r="19" stroke-dasharray="0 60 0" cx="" stroke="#fff" fill="none" />
+    <circle r="23" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="0 72.65 0" />
+    <circle r="23" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="72.65" />
 
-    <circle r="15" stroke-dasharray="0 47.325 0" cx="" stroke="#262931" fill="none" />
-    <circle r="15" stroke-dasharray="47.325" cx="" stroke="#fff" fill="none" />
-    
-    <circle r="11" stroke-dasharray="34.75" cx="" stroke="#262931" fill="none" />
-    <circle r="11" stroke-dasharray="0 34.75 0" cx="" stroke="#fff" fill="none" />
+    <circle r="19" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="60" />
+    <circle r="19" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="0 60 0" />
 
-    <circle r="7" stroke-dasharray="0 22.125 0" cx="" stroke="#262931" fill="none" />
-    <circle r="7" stroke-dasharray="22.125" cx="" stroke="#fff" fill="none" />
+    <circle r="15" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="0 47.325 0" />
+    <circle r="15" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="47.325" />
 
-    <circle r="3" stroke-dasharray="9.45" cx="" stroke="#262931" fill="none" />
-    <circle r="3" stroke-dasharray="0 9.45 0" cx="" stroke="#fff" fill="none" />
+    <circle r="11" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="34.75" />
+    <circle r="11" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="0 34.75 0" />
+
+    <circle r="7" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="0 22.125 0" />
+    <circle r="7" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="22.125" />
+
+    <circle r="3" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="9.45" />
+    <circle r="3" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="0 9.45 0" />
   </g>
 </svg>
