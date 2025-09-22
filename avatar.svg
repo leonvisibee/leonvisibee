@@ -2,7 +2,17 @@
   <g transform="rotate(90)">
     <circle r="19" stroke-dasharray="60" cx="" stroke="#262931" fill="none" />
     <circle r="19" stroke-dasharray="0 60 0" cx="" stroke="#fff" fill="none" />
-    <circle r="5" cx="19" fill="#fff"/>
-    <circle r="5" cx="-19" fill="#262931"/>
+
+    <circle r="15" stroke-dasharray="0 47.325 0" cx="" stroke="#262931" fill="none" />
+    <circle r="15" stroke-dasharray="47.325" cx="" stroke="#fff" fill="none" />
+    
+    <circle r="11" stroke-dasharray="34.75" cx="" stroke="#262931" fill="none" />
+    <circle r="11" stroke-dasharray="0 34.75 0" cx="" stroke="#fff" fill="none" />
+
+    <circle r="7" stroke-dasharray="0 22.125 0" cx="" stroke="#262931" fill="none" />
+    <circle r="7" stroke-dasharray="22.125" cx="" stroke="#fff" fill="none" />
+
+    <circle r="3" stroke-dasharray="9.45" cx="" stroke="#262931" fill="none" />
+    <circle r="3" stroke-dasharray="0 9.45 0" cx="" stroke="#fff" fill="none" />
   </g>
 </svg>
