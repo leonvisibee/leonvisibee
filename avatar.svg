@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 80 80" stroke-width="4">
   <g transform="rotate(90)">
-    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite" />
-
     <circle r="31" cx="" transform="" stroke="#262931" fill="none" stroke-dasharray="0 97.825 0" />
     <circle r="31" cx="" transform="" stroke="#fff" fill="none" stroke-dasharray="97.825" />
 
